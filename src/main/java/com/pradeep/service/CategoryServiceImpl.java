@@ -3,6 +3,7 @@ package com.pradeep.service;
 import com.pradeep.api.v1.mapper.CategoryMapper;
 import com.pradeep.api.v1.model.CategoryDTO;
 import com.pradeep.repositories.CategoryRepository;
+import com.pradeep.service.CategoryService;
 
 import java.util.List;
 import java.util.stream.Collectors;
