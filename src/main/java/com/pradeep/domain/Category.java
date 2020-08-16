@@ -1,4 +1,4 @@
-package guru.springfamework.domain;
+package com.pradeep.domain;
 
 import lombok.Data;
 

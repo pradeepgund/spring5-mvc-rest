@@ -1,6 +1,6 @@
-package guru.springfamework.repositories;
+package com.pradeep.repositories;
 
-import guru.springfamework.domain.Category;
+import com.pradeep.domain.Category;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 /**
